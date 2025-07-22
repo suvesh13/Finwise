@@ -1,6 +1,7 @@
 import React from 'react'
 import Logo from "../assets/Logo.jpg"
 
+
 const Header = () => {
   return (
     <header className="sticky top-0 z-50 w-full bg-white bg-opacity-95 backdrop-blur-sm p-4 shadow-lg flex justify-between items-center px-6 md:px-10 rounded-b-2xl">
